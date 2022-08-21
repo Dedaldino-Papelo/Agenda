@@ -1,0 +1,22 @@
+C:\Users\Administrador\Documents\Curso c# com Sql Server\C# - De Novato a Profissional\AgendaSQL\AgendaSQL\bin\Debug\AgendaSQL.exe.config
+C:\Users\Administrador\Documents\Curso c# com Sql Server\C# - De Novato a Profissional\AgendaSQL\AgendaSQL\bin\Debug\AgendaSQL.exe
+C:\Users\Administrador\Documents\Curso c# com Sql Server\C# - De Novato a Profissional\AgendaSQL\AgendaSQL\bin\Debug\AgendaSQL.pdb
+C:\Users\Administrador\Documents\Curso c# com Sql Server\C# - De Novato a Profissional\AgendaSQL\AgendaSQL\obj\Debug\AgendaSQL.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Curso c# com Sql Server\C# - De Novato a Profissional\AgendaSQL\AgendaSQL\obj\Debug\AgendaSQL.Form1.resources
+C:\Users\Administrador\Documents\Curso c# com Sql Server\C# - De Novato a Profissional\AgendaSQL\AgendaSQL\obj\Debug\AgendaSQL.Properties.Resources.resources
+C:\Users\Administrador\Documents\Curso c# com Sql Server\C# - De Novato a Profissional\AgendaSQL\AgendaSQL\obj\Debug\AgendaSQL.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\Curso c# com Sql Server\C# - De Novato a Profissional\AgendaSQL\AgendaSQL\obj\Debug\AgendaSQL.exe
+C:\Users\Administrador\Documents\Curso c# com Sql Server\C# - De Novato a Profissional\AgendaSQL\AgendaSQL\obj\Debug\AgendaSQL.pdb
+C:\Users\Administrador\Documents\Source\AgendaSQL - Cópia\AgendaSQL\bin\Debug\AgendaSQL.exe.config
+C:\Users\Administrador\Documents\Source\AgendaSQL - Cópia\AgendaSQL\obj\Debug\AgendaSQL.exe
+C:\Users\Administrador\Documents\Source\AgendaSQL - Cópia\AgendaSQL\obj\Debug\AgendaSQL.pdb
+C:\Users\Administrador\Documents\Source\AgendaSQL - Cópia\AgendaSQL\bin\Debug\AgendaSQL.exe
+C:\Users\Administrador\Documents\Source\AgendaSQL - Cópia\AgendaSQL\bin\Debug\AgendaSQL.pdb
+C:\Users\Administrador\Documents\Source\AgendaSQL - Cópia\AgendaSQL\obj\Debug\AgendaSQL.Properties.Resources.resources
+C:\Users\Administrador\Documents\Source\AgendaSQL - Cópia\AgendaSQL\obj\Debug\AgendaSQL.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\Source\AgendaSQL - Cópia\AgendaSQL\obj\Debug\AgendaSQL.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Source\AgendaSQL - Cópia\AgendaSQL\obj\Debug\AgendaSQL.FrmAdicionar.resources
+C:\Users\Administrador\Documents\Source\AgendaSQL - Cópia\AgendaSQL\obj\Debug\AgendaSQL.FrmConsultar.resources
+C:\Users\Administrador\Documents\Source\AgendaSQL - Cópia\AgendaSQL\obj\Debug\AgendaSQL.frmEditar.resources
+C:\Users\Administrador\Documents\Source\AgendaSQL - Cópia\AgendaSQL\obj\Debug\AgendaSQL.Frmpesquisar.resources
+C:\Users\Administrador\Documents\Source\AgendaSQL - Cópia\AgendaSQL\obj\Debug\AgendaSQL.Menu.resources
